@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrtelegrambot&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrtelegrambot&&show_icons=true&theme=midnight-purple" alt="Mrtelegrambot"/></p>        
  
 <p align="center">
 Used Languages 
