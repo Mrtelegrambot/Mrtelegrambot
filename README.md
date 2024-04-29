@@ -6,9 +6,9 @@
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎: 𝙼𝙺𝙽 
+• 𝙼𝚢 𝙽𝚊𝚖𝚎: Mraprguild
 <p align="left">
-• 𝙰𝚐𝚎: 20
+• 𝙰𝚐𝚎: 24
 <p align="left">
 • 𝙿𝚕𝚊𝚌𝚎: Ariyalur/TamilNadu/𝙸𝚗𝚍𝚒𝚊
 <p align="left">
